@@ -1,2 +1,2 @@
 # Programming-Exercises
-Trying to solve given questions to improve my knowledge in programming. 
+Trying to solve coding problems to improve my knowledge and skills in programming. 
